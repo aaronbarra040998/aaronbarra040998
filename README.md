@@ -64,7 +64,7 @@
     <a href="https://github.com/aaronbarra040998/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=aaronbarra040998&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/aaronbarra040998/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=aaronbarra040998&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
@@ -76,7 +76,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronbarra040998&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -99,10 +99,7 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/aaronbarra040998?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
-
-### Hi there 👋
 
